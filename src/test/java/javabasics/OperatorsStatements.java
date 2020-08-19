@@ -28,8 +28,8 @@ public class OperatorsStatements {
 	 * Operadores Relacionales	
 	 */
 		
-		int num1 = 8;
-		int num2 = 8;
+		int num1 = 18;
+		int num2 = 88;
 		int num3 = 6;
 		int num4 = 11;
 				
