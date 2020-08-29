@@ -26,7 +26,15 @@ public class ArraysStatment {
 		persona[3][0] = "Cristian";
 		persona[3][1] = "Analista";
 	
-		System.out.println("El nombre es:"+ persona[2][0]+ " y su Rol es:" + persona[3][1]);
+		//System.out.println("El nombre es:"+ persona[2][0]+ " y su Rol es:" + persona[3][1]);
+
+        getNombre(persona); 
+	}
+//Metodo
+	public static void getNombre (String [][]persona) {
+		System.out.println("El nombre es: "+persona[2][0]+" y su rol es:"+ persona [2][1]);
+		
+		
 	}
 	
 
