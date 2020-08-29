@@ -19,7 +19,7 @@ public class DataTypes {
         
     //  System.out.println(a);
       
-       // Colocan syso y seguido Ctrl + la tecla de espacio y se los autocompleta!!
+       // Colocan sysout y seguido Ctrl + la tecla de espacio y se los autocompleta!!
 	
 	/*
 	 *Datos numericos reales
