@@ -22,10 +22,10 @@ public class Triangulo extends Poligono {
 	
 	//Constructor del Area
 	
-	public Triangulo(double base, double altura) {
+	public Triangulo(double base1, double altura1) {
 		super(3);
-		this.base1 = base;
-		this.altura1 = altura;
+		this.base1 = base1;
+		this.altura1 = altura1;
 	}
 	//Encapsulacion
 	public void setLado1(double lado1) {

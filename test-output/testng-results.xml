@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Launch automatedtester app]]>
+    </line>
+    <line>
+      <![CDATA[Click link Chapter 1]]>
+    </line>
+    <line>
+      <![CDATA[Click Radio Button]]>
+    </line>
+    <line>
+      <![CDATA[Select "Selenium Core" from dropdown]]>
+    </line>
+    <line>
+      <![CDATA[Navigate Home page clicking "Home Page" link]]>
+    </line>
+    <line>
+      <![CDATA[Close Browser]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7323" started-at="2020-09-05T16:54:33Z" finished-at="2020-09-05T16:54:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7323" started-at="2020-09-05T16:54:33Z" finished-at="2020-09-05T16:54:40Z">
+      <class name="com.auotomatedtester.qa.TC001_Chapter1_ValidateDropdown">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.auotomatedtester.qa.TC001_Chapter1_ValidateDropdown@548a102f]" name="beforeTest" is-config="true" duration-ms="13" started-at="2020-09-05T16:54:33Z" finished-at="2020-09-05T16:54:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="TC001()[pri:0, instance:com.auotomatedtester.qa.TC001_Chapter1_ValidateDropdown@548a102f]" name="TC001" duration-ms="7278" started-at="2020-09-05T16:54:33Z" finished-at="2020-09-05T16:54:40Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Launch automatedtester app]]>
+            </line>
+            <line>
+              <![CDATA[Click link Chapter 1]]>
+            </line>
+            <line>
+              <![CDATA[Click Radio Button]]>
+            </line>
+            <line>
+              <![CDATA[Select "Selenium Core" from dropdown]]>
+            </line>
+            <line>
+              <![CDATA[Navigate Home page clicking "Home Page" link]]>
+            </line>
+            <line>
+              <![CDATA[Close Browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC001 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.auotomatedtester.qa.TC001_Chapter1_ValidateDropdown@548a102f]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-09-05T16:54:40Z" finished-at="2020-09-05T16:54:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.auotomatedtester.qa.TC001_Chapter1_ValidateDropdown -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
