@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.auotomatedtester.qa.TC001_Chapter1_ValidateDropdown">
+      <class name="com.auotomatedtester.qa.TC003_Chapter1_ValidateButtonLoadPage">
         <methods>
           <include name="afterTest"/>
-          <include name="TC001"/>
+          <include name="TC003"/>
           <include name="beforeTest"/>
         </methods>
-      </class> <!-- com.auotomatedtester.qa.TC001_Chapter1_ValidateDropdown -->
+      </class> <!-- com.auotomatedtester.qa.TC003_Chapter1_ValidateButtonLoadPage -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
